@@ -7,7 +7,3 @@ SimpleBlog is a completely responsive personal blog website that is compatible w
  <a href="https://codingstella.github.io/personal-blog-website/"><strong>➥ Live Demo</strong></a> 
  
  </div>
-
-## License
-
-This project is **free to use** and does not contains any license and Don't Forget to give credit.
